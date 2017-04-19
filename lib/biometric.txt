@@ -1,0 +1,4 @@
+https://learn.adafruit.com/adafruit-optical-fingerprint-sensor
+
+
+..additional security risks? (for outside access)
