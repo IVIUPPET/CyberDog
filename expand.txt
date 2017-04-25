@@ -1,0 +1,8 @@
+# Some links to examine later when it comes time to expand the system
+
+Check out Ninja blocks:
+http://lifehacker.com/make-your-own-cheap-home-automation-in-10-minutes-with-1468650432
+
+Other shit:
+
+http://lifehacker.com/turn-a-raspberry-pi-into-a-cheap-home-surveillance-syst-1474943080
