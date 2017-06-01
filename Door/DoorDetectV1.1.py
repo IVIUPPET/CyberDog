@@ -13,6 +13,7 @@ import sys
 sys.path.append('../lib/')
 import Console_lib as console
 
+# TODO: There is a noncritical bug in the logger deleting spaces
 ##############################################################################
 # User params:
 log_fname = 'log.txt'

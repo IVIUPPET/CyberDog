@@ -20,8 +20,7 @@ def timeStamp(text, bad=0):
     if bad == 0:
         print('[+] [{:%b-%d-%Y %H:%M:%S}] '.format(datetime.datetime.now()) +
         text)
-        outstring = '[+] [{:%b-%d-%Y %H:%M:%S}]
-                '.format(datetime.datetime.now()) + text
+        outstring = '[+] [{:%b-%d-%Y %H:%M:%S}]'.format(datetime.datetime.now()) + text
     else:
         print('[-] [{:%b-%d-%Y %H:%M:%S}] '.format(datetime.datetime.now()) +
         text)
@@ -31,7 +30,7 @@ def timeStamp(text, bad=0):
 def log(text, file_name):
     #https://stackoverflow.com/questions/4706499/how-do-you-append-to-a-file
     with open(file_name, 'a') as f:
-        f.write('text')
+        f.write(text + '\n')
     f.closed # is this even necessary?
 
 
