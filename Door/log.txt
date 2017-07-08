@@ -1,3 +1,285 @@
 [-] [Jun-01-2017 12:10:13] Door opened!
 [+] [Jun-01-2017 12:10:15]Door closed.
 Door was open for 1.60 seconds.
+[-] [Jun-01-2017 12:21:40] Door opened!
+[+] [Jun-01-2017 12:21:42]Door closed.
+Door was open for 2.60 seconds.
+[-] [Jun-01-2017 12:23:48] Door opened!
+[+] [Jun-01-2017 12:23:52]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jun-01-2017 12:24:45] Door opened!
+[+] [Jun-01-2017 12:24:47]Door closed.
+Door was open for 1.80 seconds.
+[-] [Jun-01-2017 13:09:35] Door opened!
+[+] [Jun-01-2017 13:09:42]Door closed.
+Door was open for 7.20 seconds.
+[-] [Jun-01-2017 14:10:22] Door opened!
+[+] [Jun-01-2017 14:10:26]Door closed.
+Door was open for 3.60 seconds.
+[-] [Jun-01-2017 14:53:08] Door opened!
+[+] [Jun-01-2017 14:53:13]Door closed.
+Door was open for 5.00 seconds.
+[-] [Jun-01-2017 16:46:36] Door opened!
+[+] [Jun-01-2017 16:46:45]Door closed.
+Door was open for 9.60 seconds.
+[-] [Jun-01-2017 16:46:58] Door opened!
+[+] [Jun-01-2017 16:47:01]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-01-2017 16:49:16] Door opened!
+[+] [Jun-01-2017 16:49:35]Door closed.
+Door was open for 18.60 seconds.
+[-] [Jun-01-2017 16:57:45] Door opened!
+[+] [Jun-01-2017 16:58:22]Door closed.
+Door was open for 37.00 seconds.
+[-] [Jun-01-2017 17:00:02] Door opened!
+[+] [Jun-01-2017 17:00:05]Door closed.
+Door was open for 2.60 seconds.
+[-] [Jun-01-2017 17:12:22] Door opened!
+[+] [Jun-01-2017 17:12:26]Door closed.
+Door was open for 4.60 seconds.
+[-] [Jun-01-2017 18:56:44] Door opened!
+[+] [Jun-01-2017 18:56:47]Door closed.
+Door was open for 3.20 seconds.
+[-] [Jun-01-2017 19:18:59] Door opened!
+[+] [Jun-01-2017 19:19:02]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jun-01-2017 20:14:35] Door opened!
+[+] [Jun-01-2017 20:14:43]Door closed.
+Door was open for 8.20 seconds.
+[-] [Jun-01-2017 20:37:35] Door opened!
+[+] [Jun-01-2017 20:37:40]Door closed.
+Door was open for 5.00 seconds.
+[-] [Jun-01-2017 21:16:47] Door opened!
+[+] [Jun-01-2017 21:16:54]Door closed.
+Door was open for 7.40 seconds.
+[-] [Jun-02-2017 07:01:26] Door opened!
+[+] [Jun-02-2017 07:01:39]Door closed.
+Door was open for 12.40 seconds.
+[-] [Jun-02-2017 07:03:33] Door opened!
+[+] [Jun-02-2017 07:03:36]Door closed.
+Door was open for 3.20 seconds.
+[-] [Jun-02-2017 07:32:19] Door opened!
+[+] [Jun-02-2017 07:32:22]Door closed.
+Door was open for 3.60 seconds.
+[-] [Jun-02-2017 08:17:11] Door opened!
+[+] [Jun-02-2017 08:17:16]Door closed.
+Door was open for 5.00 seconds.
+[-] [Jun-02-2017 10:05:52] Door opened!
+[+] [Jun-02-2017 10:05:55]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-02-2017 10:37:45] Door opened!
+[+] [Jun-02-2017 10:37:48]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jun-02-2017 10:38:45] Door opened!
+[+] [Jun-02-2017 10:38:47]Door closed.
+Door was open for 2.20 seconds.
+[-] [Jun-02-2017 15:09:44] Door opened!
+[+] [Jun-02-2017 15:09:46]Door closed.
+Door was open for 2.80 seconds.
+[-] [Jun-02-2017 15:35:50] Door opened!
+[+] [Jun-02-2017 15:35:55]Door closed.
+Door was open for 5.20 seconds.
+[-] [Jun-02-2017 15:36:05] Door opened!
+[+] [Jun-02-2017 15:36:49]Door closed.
+Door was open for 44.00 seconds.
+[-] [Jun-02-2017 15:39:02] Door opened!
+[+] [Jun-02-2017 15:39:21]Door closed.
+Door was open for 19.00 seconds.
+[-] [Jun-02-2017 15:39:48] Door opened!
+[+] [Jun-02-2017 15:40:02]Door closed.
+Door was open for 13.60 seconds.
+[-] [Jun-09-2017 18:15:32] Door opened!
+[+] [Jun-09-2017 18:15:54]Door closed.
+Door was open for 22.80 seconds.
+[-] [Jun-09-2017 18:38:49] Door opened!
+[+] [Jun-09-2017 18:38:51]Door closed.
+Door was open for 2.20 seconds.
+[-] [Jun-09-2017 18:45:49] Door opened!
+[+] [Jun-09-2017 18:45:55]Door closed.
+Door was open for 6.00 seconds.
+[-] [Jun-09-2017 18:51:25] Door opened!
+[+] [Jun-09-2017 18:51:40]Door closed.
+Door was open for 15.60 seconds.
+[-] [Jun-09-2017 18:55:44] Door opened!
+[+] [Jun-09-2017 18:55:46]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-09-2017 18:55:58] Door opened!
+[+] [Jun-09-2017 18:56:17]Door closed.
+Door was open for 19.40 seconds.
+[-] [Jun-09-2017 19:04:14] Door opened!
+[+] [Jun-09-2017 19:04:22]Door closed.
+Door was open for 8.60 seconds.
+[-] [Jun-09-2017 20:41:12] Door opened!
+[+] [Jun-09-2017 20:41:19]Door closed.
+Door was open for 7.80 seconds.
+[-] [Jun-09-2017 20:41:32] Door opened!
+[+] [Jun-09-2017 20:42:16]Door closed.
+Door was open for 43.40 seconds.
+[-] [Jun-09-2017 21:14:06] Door opened!
+[+] [Jun-09-2017 21:14:08]Door closed.
+Door was open for 2.00 seconds.
+[-] [Jun-09-2017 21:14:14] Door opened!
+[+] [Jun-09-2017 21:14:17]Door closed.
+Door was open for 3.60 seconds.
+[-] [Jun-09-2017 21:24:25] Door opened!
+[+] [Jun-09-2017 21:24:31]Door closed.
+Door was open for 5.80 seconds.
+[-] [Jun-09-2017 21:27:32] Door opened!
+[+] [Jun-09-2017 21:27:36]Door closed.
+Door was open for 4.20 seconds.
+[-] [Jun-09-2017 21:29:57] Door opened!
+[+] [Jun-09-2017 21:30:19]Door closed.
+Door was open for 22.00 seconds.
+[-] [Jun-09-2017 21:35:59] Door opened!
+[+] [Jun-09-2017 21:36:04]Door closed.
+Door was open for 5.20 seconds.
+[-] [Jun-09-2017 22:58:39] Door opened!
+[+] [Jun-09-2017 22:58:45]Door closed.
+Door was open for 6.40 seconds.
+[-] [Jun-10-2017 09:40:35] Door opened!
+[+] [Jun-10-2017 09:40:40]Door closed.
+Door was open for 5.20 seconds.
+[-] [Jun-10-2017 18:18:49] Door opened!
+[+] [Jun-10-2017 18:18:56]Door closed.
+Door was open for 7.40 seconds.
+[-] [Jun-10-2017 18:36:35] Door opened!
+[+] [Jun-10-2017 18:36:38]Door closed.
+Door was open for 2.80 seconds.
+[-] [Jun-10-2017 18:43:00] Door opened!
+[+] [Jun-10-2017 18:43:11]Door closed.
+Door was open for 10.80 seconds.
+[-] [Jun-10-2017 20:13:32] Door opened!
+[+] [Jun-10-2017 20:13:35]Door closed.
+Door was open for 2.60 seconds.
+[-] [Jun-10-2017 20:13:42] Door opened!
+[+] [Jun-10-2017 20:14:17]Door closed.
+Door was open for 34.80 seconds.
+[-] [Jun-10-2017 20:30:59] Door opened!
+[+] [Jun-10-2017 20:31:02]Door closed.
+Door was open for 2.60 seconds.
+[-] [Jun-10-2017 21:13:26] Door opened!
+[+] [Jun-10-2017 21:13:28]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-10-2017 21:41:47] Door opened!
+[+] [Jun-10-2017 21:41:52]Door closed.
+Door was open for 4.80 seconds.
+[-] [Jun-11-2017 08:52:39] Door opened!
+[+] [Jun-11-2017 08:52:41]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-11-2017 10:17:10] Door opened!
+[+] [Jun-11-2017 10:17:13]Door closed.
+Door was open for 2.80 seconds.
+[-] [Jun-11-2017 11:02:09] Door opened!
+[+] [Jun-11-2017 11:02:11]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jun-11-2017 11:37:17] Door opened!
+[+] [Jun-11-2017 11:37:20]Door closed.
+Door was open for 2.60 seconds.
+[-] [Jun-11-2017 12:21:02] Door opened!
+[+] [Jun-11-2017 12:21:08]Door closed.
+Door was open for 5.80 seconds.
+[-] [Jun-11-2017 12:21:17] Door opened!
+[+] [Jun-11-2017 12:21:20]Door closed.
+Door was open for 3.00 seconds.
+[-] [Jun-11-2017 12:35:09] Door opened!
+[+] [Jun-11-2017 12:35:11]Door closed.
+Door was open for 2.20 seconds.
+[-] [Jun-11-2017 12:36:08] Door opened!
+[+] [Jun-11-2017 12:36:11]Door closed.
+Door was open for 3.00 seconds.
+[-] [Jun-11-2017 13:49:57] Door opened!
+[+] [Jun-11-2017 13:50:02]Door closed.
+Door was open for 5.00 seconds.
+[-] [Jun-11-2017 13:50:13] Door opened!
+[+] [Jun-11-2017 13:50:18]Door closed.
+Door was open for 4.40 seconds.
+[-] [Jun-11-2017 14:10:24] Door opened!
+[+] [Jun-11-2017 14:10:31]Door closed.
+Door was open for 7.60 seconds.
+[-] [Jun-11-2017 14:32:34] Door opened!
+[+] [Jun-11-2017 14:32:39]Door closed.
+Door was open for 5.40 seconds.
+[-] [Jun-11-2017 14:32:41] Door opened!
+[+] [Jun-11-2017 14:32:55]Door closed.
+Door was open for 14.40 seconds.
+[-] [Jun-11-2017 15:26:11] Door opened!
+[+] [Jun-11-2017 15:26:16]Door closed.
+Door was open for 4.60 seconds.
+[-] [Jun-11-2017 17:47:19] Door opened!
+[+] [Jun-11-2017 17:47:24]Door closed.
+Door was open for 4.80 seconds.
+[-] [Jun-11-2017 18:04:10] Door opened!
+[+] [Jun-11-2017 18:04:13]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jun-11-2017 19:23:40] Door opened!
+[+] [Jun-11-2017 19:24:08]Door closed.
+Door was open for 27.60 seconds.
+[-] [Jun-11-2017 19:26:47] Door opened!
+[+] [Jun-11-2017 19:27:19]Door closed.
+Door was open for 31.80 seconds.
+[-] [Jun-11-2017 19:28:39] Door opened!
+[+] [Jun-11-2017 19:33:00]Door closed.
+Door was open for 261.00 seconds.
+[-] [Jun-11-2017 19:33:25] Door opened!
+[+] [Jun-11-2017 19:39:03]Door closed.
+Door was open for 337.40 seconds.
+[-] [Jun-11-2017 19:40:45] Door opened!
+[+] [Jun-11-2017 19:41:12]Door closed.
+Door was open for 26.40 seconds.
+[-] [Jun-11-2017 19:44:00] Door opened!
+[+] [Jun-11-2017 19:44:03]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jun-11-2017 20:05:31] Door opened!
+[+] [Jun-11-2017 20:06:20]Door closed.
+Door was open for 48.60 seconds.
+[-] [Jun-11-2017 20:13:19] Door opened!
+[+] [Jun-11-2017 20:14:37]Door closed.
+Door was open for 77.60 seconds.
+[-] [Jun-22-2017 16:12:03] Door opened!
+[+] [Jun-22-2017 16:13:18]Door closed.
+Door was open for 75.00 seconds.
+[-] [Jul-01-2017 14:23:28] Door opened!
+[+] [Jul-01-2017 14:23:40]Door closed.
+Door was open for 12.20 seconds.
+[-] [Jul-01-2017 14:46:56] Door opened!
+[+] [Jul-01-2017 14:48:18]Door closed.
+Door was open for 81.60 seconds.
+[-] [Jul-01-2017 14:52:55] Door opened!
+[+] [Jul-01-2017 14:53:00]Door closed.
+Door was open for 5.60 seconds.
+[-] [Jul-01-2017 14:53:23] Door opened!
+[+] [Jul-01-2017 14:53:28]Door closed.
+Door was open for 4.40 seconds.
+[-] [Jul-01-2017 14:59:38] Door opened!
+[+] [Jul-01-2017 14:59:42]Door closed.
+Door was open for 3.60 seconds.
+[-] [Jul-01-2017 15:00:43] Door opened!
+[+] [Jul-01-2017 15:01:47]Door closed.
+Door was open for 64.40 seconds.
+[-] [Jul-07-2017 17:52:06] Door opened!
+[+] [Jul-07-2017 17:55:04]Door closed.
+Door was open for 177.60 seconds.
+[-] [Jul-07-2017 17:58:48] Door opened!
+[+] [Jul-07-2017 17:58:53]Door closed.
+Door was open for 4.40 seconds.
+[-] [Jul-07-2017 17:58:58] Door opened!
+[+] [Jul-07-2017 17:59:02]Door closed.
+Door was open for 3.60 seconds.
+[-] [Jul-07-2017 21:20:11] Door opened!
+[+] [Jul-07-2017 21:20:16]Door closed.
+Door was open for 5.40 seconds.
+[-] [Jul-07-2017 21:38:50] Door opened!
+[+] [Jul-07-2017 21:40:10]Door closed.
+Door was open for 80.00 seconds.
+[-] [Jul-07-2017 21:49:40] Door opened!
+[+] [Jul-07-2017 21:49:43]Door closed.
+Door was open for 3.40 seconds.
+[-] [Jul-07-2017 22:25:57] Door opened!
+[+] [Jul-07-2017 22:26:23]Door closed.
+Door was open for 25.40 seconds.
+[-] [Jul-07-2017 23:50:15] Door opened!
+[+] [Jul-07-2017 23:50:18]Door closed.
+Door was open for 2.40 seconds.
+[-] [Jul-07-2017 23:53:02] Door opened!
+[+] [Jul-07-2017 23:53:05]Door closed.
+Door was open for 3.40 seconds.
